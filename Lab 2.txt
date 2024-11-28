@@ -1,0 +1,9 @@
+Learning rate selected: 0.60
+Stop when average error is: 0.0100
+(a) Multiple output lines give better results. (Yes/ No)
+Reason: Yes, multiple output gives better result because it is useful in prediction
+of correct result
+3. Give the following specification of your network.
+(a) Learning rate selected: 0.60
+(b) Stop when average error is: 0.0100
+There is one output only that is Species and Its type is Tuple
